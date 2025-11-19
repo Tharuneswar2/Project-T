@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "/signals/[id]/page": [
+      "static/chunks/c8e1e_next_dist_e7180d83._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_app_favicon_ico_mjs_e718a7a7._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_app_globals_80480bce.css",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_73d62ff7._.js",
+      "static/chunks/c8e1e_next_dist_8dc1391b._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_app_layout_tsx_362ed03f._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_app_global-error_tsx_5d172a3f._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_app_global-error_tsx_1355925e._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_c978ac45._.js",
+      "static/chunks/c8e1e_dbb27498._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_src_app_signals_[id]_page_tsx_1355925e._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_3b72d51b._.js",
+      "static/chunks/c8e1e_next_dist_compiled_2765a592._.js",
+      "static/chunks/c8e1e_next_dist_client_2ac947f4._.js",
+      "static/chunks/c8e1e_next_dist_1038d991._.js",
+      "static/chunks/c8e1e_@swc_helpers_cjs_9d9c0c01._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_e69f0d32._.js",
+      "static/chunks/Personal_Designs_trading-signal-dashboard_93efbc59._.js"
+    ]
+  }
+}

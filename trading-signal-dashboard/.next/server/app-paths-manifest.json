@@ -1,0 +1,7 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/signals/[id]/page": "app/signals/[id]/page.js",
+  "/signals/create/page": "app/signals/create/page.js"
+}
